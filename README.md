@@ -1,6 +1,5 @@
 # Science-Exhibition
-SChool Science Exhibition.
-<!DOCTYPE html>
+School Science Exhibition.
 <html lang="en">
 <head>
     <meta charset="UTF-8">
